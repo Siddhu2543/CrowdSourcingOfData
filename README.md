@@ -11,4 +11,4 @@ This is the project idea I got in my mind when every people around me including 
 * _Using_ ___PHP and MySQL___ _we are handling all the user entered data._
 
 ### Flow
-*Whenever any user accesses the site, he/she will have to enter details about themselves and after that they will be able to view, insert, update and remove records. Though the data will be there, its reliability still can't be determined but people also have to be responsible.
+*Whenever any user accesses the site, he/she will have to enter details about themselves and after that they will be able to view, insert, update and remove records. Though the data will be there, its reliability still can't be determined but people also have to be responsible.*
